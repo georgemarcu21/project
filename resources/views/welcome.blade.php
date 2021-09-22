@@ -6,7 +6,7 @@
 
 
         <title>
-            Laravel
+            Laravel from scratch
         </title>
 
         <!-- Fonts -->
